@@ -56,19 +56,6 @@ Se evaluaron varios modelos predictivos con **validación cruzada** y **ajuste d
 
 ---
 
-## 📉 Visualizaciones  
-
-### 🔹 Matriz de Confusión (Random Forest)  
-![Matriz de confusión](images/confusion_matrix_rf.png)  
-
-### 🔹 Curvas ROC comparativas  
-![Curva ROC](images/roc_curves.png)  
-
-### 🔹 Importancia de Variables (Random Forest)  
-![Feature Importance](images/feature_importance_rf.png)  
-
----
-
 ## 📈 Recomendaciones de Negocio  
 
 1. **Migrar contratos “Month-to-month”** a planes anuales con descuentos e incentivos.  
